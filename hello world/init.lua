@@ -1,0 +1,5 @@
+print("hello...")
+tmr.delay(500000)
+print("world!")
+tmr.delay(500000)
+print("from: Programacao Eletronica")
