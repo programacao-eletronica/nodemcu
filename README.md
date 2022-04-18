@@ -26,3 +26,4 @@ Para a programação, indico o software [ESPlorer](https://github.com/4refr0nt/ESP
 ## Tutoriais
 
 - [Hello world em lua com nodemcu](./hello%20world) <a><img align="right" src="https://img.shields.io/badge/Level-Beginner-green?style=plastic.svg"></a>
+- [Trabalhando com timers no nodemcu](./tmr) <a><img align="right" src="https://img.shields.io/badge/Level-Beginner-green?style=plastic.svg"></a>
