@@ -1,4 +1,4 @@
-![plot](https://github.com/programacao-eletronica/img/blob/c2b4862aa002d779533c93bb03f9bb7f05fab0e7/banner.png?raw=true)
+![plot](https://raw.githubusercontent.com/programacao-eletronica/img/master/banner.png)
 
 <br /> 
 
